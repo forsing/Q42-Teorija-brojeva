@@ -112,7 +112,7 @@ except ImportError:
 # =========================
 # Konfiguracija
 # =========================
-CSV_PATH = Path("/Users/4c/Desktop/GHQ/data/loto7hh_4602_k32.csv")
+CSV_PATH = Path("/data/loto7hh_4602_k32.csv")
 N_NUMBERS = 7
 N_MAX = 39
 
@@ -461,7 +461,7 @@ Suma:   133   (S̄=140.51)
 #QR:    2 / 7   (mod 37)
 #SQF:   5 / 7   (squarefree)
 Gaps:   [6, 3, 4, 5, 7, 2]
-Predikcija NEXT: [5, 11, 14, 18, 23, 30, 32]
+Predikcija NEXT: [5, 11, x, y, z, 30, 32]
 """
 
 
